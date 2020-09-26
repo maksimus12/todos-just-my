@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//maksimus12.github.io/todo-just-my/static/css/main.6ce1b27e.chunk.css",
+    "main.js": "/http//maksimus12.github.io/todo-just-my/static/js/main.014dc1e6.chunk.js",
+    "main.js.map": "/http//maksimus12.github.io/todo-just-my/static/js/main.014dc1e6.chunk.js.map",
+    "runtime-main.js": "/http//maksimus12.github.io/todo-just-my/static/js/runtime-main.64f68a1b.js",
+    "runtime-main.js.map": "/http//maksimus12.github.io/todo-just-my/static/js/runtime-main.64f68a1b.js.map",
+    "static/js/2.12e6d84c.chunk.js": "/http//maksimus12.github.io/todo-just-my/static/js/2.12e6d84c.chunk.js",
+    "static/js/2.12e6d84c.chunk.js.map": "/http//maksimus12.github.io/todo-just-my/static/js/2.12e6d84c.chunk.js.map",
+    "index.html": "/http//maksimus12.github.io/todo-just-my/index.html",
+    "precache-manifest.c03916f90cdd27ce275e893784c51319.js": "/http//maksimus12.github.io/todo-just-my/precache-manifest.c03916f90cdd27ce275e893784c51319.js",
+    "service-worker.js": "/http//maksimus12.github.io/todo-just-my/service-worker.js",
+    "static/css/main.6ce1b27e.chunk.css.map": "/http//maksimus12.github.io/todo-just-my/static/css/main.6ce1b27e.chunk.css.map",
+    "static/js/2.12e6d84c.chunk.js.LICENSE.txt": "/http//maksimus12.github.io/todo-just-my/static/js/2.12e6d84c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64f68a1b.js",
+    "static/js/2.12e6d84c.chunk.js",
+    "static/css/main.6ce1b27e.chunk.css",
+    "static/js/main.014dc1e6.chunk.js"
+  ]
+}
